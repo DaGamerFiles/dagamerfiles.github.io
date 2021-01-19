@@ -1,0 +1,7 @@
+body {
+    background-color: aliceblue;
+}
+p, h1 {
+    text-align: left;
+    font-family: Open Sans;
+}
