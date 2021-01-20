@@ -5,3 +5,30 @@ p, h3 {
     text-align: left;
     font-family: Open Sans;
 }
+img {
+    display: block;
+    width: 22px
+}
+img.wrap {
+    max-width: 10%;
+    margin: 22px 0px;
+}
+img.align-right {
+    float: right;
+    margin-left: 22px;
+}
+img.align-left {
+    float: left;
+    margin-right: 22px;
+}
+.footer {
+    position: fixed;
+    display: block;
+    padding: 10px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: lightslategray;
+    color: whitesmoke;
+}

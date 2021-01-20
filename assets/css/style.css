@@ -1,7 +1,18 @@
 body {
     background-color: aliceblue;
+    font-family: Open Sans;
 }
 p, h1 {
     text-align: left;
-    font-family: Open Sans;
+}
+.footer {
+    position: fixed;
+    display: block;
+    padding: 10px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: lightslategray;
+    color: whitesmoke;
 }
